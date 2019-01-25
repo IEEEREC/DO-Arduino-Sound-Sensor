@@ -1,4 +1,4 @@
-# AO-arduino-sound-sensor
+# DO-arduino-sound-sensor
 
 For more information, go to these links:
 
